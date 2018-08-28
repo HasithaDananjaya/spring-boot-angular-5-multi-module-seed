@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.backend.source.SourceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.496 s - in com.backend.source.SourceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.248 s - in com.backend.source.SourceApplicationTests

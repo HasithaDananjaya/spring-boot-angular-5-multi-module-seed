@@ -68,9 +68,12 @@ testem.log
 /e2e/*.map
 
 # System Files
-.DS_Store
+*/.DS_Store
 Thumbs.db
 
 /package-lock.json
 backend/log/
 backend/target/*
+
+#node modules
+*/node_modules
