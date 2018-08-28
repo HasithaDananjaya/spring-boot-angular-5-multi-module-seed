@@ -73,3 +73,4 @@ Thumbs.db
 
 /package-lock.json
 backend/log/
+backend/target/*
